@@ -865,12 +865,22 @@ section {
         z-index: -1;
 }
 
+.round_icon{
+        width: 200px;
+        height: 200px;
+        display: flex;
+        border-radius: 50%;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+      }
 
-.bg-1 { background: url(../images/slider_1_1920_1200.jpg) no-repeat center; background-size: cover; }
 
-.bg-2 {   background: url(../images/story_bg_1.png) no-repeat center; background-size: 100%; }
+.bg-1 { background: url(../imgAltera/1.jpeg) no-repeat center; background-size: cover; }
 
-.bg-3 {  background: url(../images/story_bg_2.png) no-repeat center;  background-size: 100%; }
+.bg-2 {   background: url(../imgAltera/tea.png) no-repeat center; background-size: 100%; }
+
+.bg-3 {  background: url(../imgAltera/bolo1.png) no-repeat center;  background-size: 100%; }
 
 .bg-4 {  background: url(../images/slider_2_1920_600.jpg) no-repeat center;  background-size: cover; }
 
