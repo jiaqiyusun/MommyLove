@@ -1541,7 +1541,10 @@ ul.icon li a{ padding: 10px;  }
 
 .semi-black{ color: #666666; }
 
-.br-3{ border-radius: 3px;  }
+.br-3{ border-radius: 3px;  
+height: 90px;
+height: 90px;
+}
 .br-4{ border-radius: 4px;  }
 .br-5{ border-radius: 5px;  }
 
