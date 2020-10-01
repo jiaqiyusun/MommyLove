@@ -389,7 +389,7 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu {
 
 .main-slider{ position: relative; z-index: 1; }
 
-.main-slider:after{content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; z-index: -1; background: rgba(0,0,0,.4); }
+.main-slider:after{content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; z-index: -1; background: rgba(0,0,0,0); }
 
 .triangle-bottom{
         position: relative;
@@ -1532,6 +1532,7 @@ ul.selecton li a.active{ border-radius: 3px 3px 0 0; background: #EF0031; color:
 
 
 /*FOOTER*/
+
 
 footer{ background: url("../images/footer_1600x800.jpg") no-repeat; background-size: cover;  position: relative;  text-align: center;z-index: 1;  font-size: 1.3em; }
 
