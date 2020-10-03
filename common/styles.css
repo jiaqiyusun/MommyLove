@@ -108,6 +108,10 @@ textarea:focus { outline-color: red; }
         margin-right: 60px;
         float: right;
 }
+
+.heading h2{
+        margin-top: 50px;
+}
 /** End Us Css code**/
 .card { border-radius: 0px; border: 0px; background: none; box-shadow: none; }
 
@@ -201,7 +205,7 @@ header:after {
 header .logo {
         float: left;
         height: 60px;
-        margin-left: -100px;
+        margin-right: 100px;
 }
 
 header .logo img {
