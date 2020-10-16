@@ -92,11 +92,10 @@ textarea:focus { outline-color: red; }
 /** Us Css code**/
 
 .price{
-        width: 150px;
         height:30px;
         color: white;
         margin-bottom: 5%;
-        margin-top: -60px;
+        margin-top: 0px;
         padding-top: 5px;
 }
 
@@ -905,7 +904,7 @@ section {
 
 .bolo_de_casa{
         width: 200px;
-        height: 200px;
+        height: 250px;
         display: flex;
         border-radius: 5%;
         align-items: center;
@@ -913,13 +912,34 @@ section {
         overflow: hidden;  
 }
 
-.bg-1 { background: url(../imgAltera/1.jpeg) no-repeat center; background-size: cover; }
+.menu_foto{
+        width: 100px;
+        height: 170px;
+        display: flex;
+        border-radius: 0%;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;  
+
+}
+.menu_foto_tea_classic{
+        width: 190px;
+        height: 250px;
+        display: flex;
+        border-radius: 0%;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+
+}
+
+.bg-1 { background: url(../imgAltera/bg-1.jpeg) no-repeat center; background-size: cover; }
 
 .bg-2 {   background: url(../imgAltera/tea.png) no-repeat center; background-size: 100%; }
 
 .bg-3 {  background: url(../imgAltera/bolo1.png) no-repeat center;  background-size: 100%; }
 
-.bg-4 {  background: url(../imgAltera/1.jpeg) no-repeat center;  background-size: cover; }
+.bg-4 {  background: url(../imgAltera/bg-4.png) no-repeat center;  background-size: cover; }
 
 .bg-5 {  background: url(../imgAltera/1.jpeg) no-repeat center;  background-size: cover; }
 
