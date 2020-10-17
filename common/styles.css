@@ -1566,7 +1566,7 @@ ul.selecton li a.active{ border-radius: 3px 3px 0 0; background: red; color: #FF
 /*FOOTER*/
 
 
-footer{ background: url("../imgAltera/0.png") no-repeat; background-size: cover;  position: relative;  text-align: center;z-index: 1;  font-size: 1.3em; }
+footer{ background: url("../images/footer_1600x800.jpg") no-repeat; background-size: cover;  position: relative;  text-align: center;z-index: 1;  font-size: 1.3em; }
 
 .footer-bg-1{ background-image:  url("../images/footer-1.png") ; }
 .footer-bg-1:after{ display: none; }
