@@ -922,6 +922,18 @@ section {
         overflow: hidden;  
 
 }
+
+.menu_foto_prato_chines{
+        width: 220px;
+        height: 170px;
+        display: flex;
+        border-radius: 0%;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;  
+
+}
+
 .menu_foto_tea_classic{
         width: 190px;
         height: 250px;
