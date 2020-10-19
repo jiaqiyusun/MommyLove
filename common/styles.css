@@ -59,7 +59,7 @@ a, button { display: inline-block; text-decoration: none; color: inherit; line-h
 
 a:focus, a:active, a:hover,
 button:focus, button:active, button:hover,
-a b.light-color:hover { text-decoration: none; color: red;}
+a b.light-color:hover { text-decoration: none; color: pink;}
 
 b {  font-weight: 700; }
 
@@ -78,7 +78,7 @@ button { outline: 0; border: 0; background: none; cursor: pointer; }
 b.max-bold { font-weight: 700; }
 
 input:focus,
-textarea:focus { outline-color: red; }
+textarea:focus { outline-color: pink; }
 
 ::placeholder { color: #aaa; font-weight: 700; }
 
@@ -773,7 +773,7 @@ section {
 }
 
 .color-primary {
-        color: red;
+        color: pink;
 }
 
 .color-black { color: #111; }
@@ -800,7 +800,7 @@ section {
 
 .bg-191 { background: #191919; }
 
-.bg-primary { background: red !important; }
+.bg-primary { background: pink !important; }
 
 .bg-2-white { background: #F2F2F2; }
 
@@ -857,7 +857,7 @@ section {
 
 .ribbon { position: absolute;top: 0;left: 0;right: 0;bottom: 0; z-index: -1; border: 15px solid #F1002A; border-left:  0; border-right: 15px solid transparent;  width:   100%; }
 .ribbon.primary{ border-color: #F1002A; border-right-color:  transparent; }
-.ribbon.secondary{ border-color: red; border-right-color:  transparent;  }
+.ribbon.secondary{ border-color: pink; border-right-color:  transparent;  }
 .ribbon.white{ border-color: #ffffff; border-right-color:  transparent;  }
 
 
@@ -947,7 +947,7 @@ section {
 
 .bg-1 { background: url(../imgAltera/bg-1.jpeg) no-repeat center; background-size: cover; }
 
-.bg-2 {   background: url(../imgAltera/tea.png) no-repeat center; background-size: 100%; }
+.bg-2 {   background: url(../imgAltera/BubbleTea/miketea/especial/Classic.png) no-repeat center; background-size: 100%; }
 
 .bg-3 {  background: url(../imgAltera/bolo1.png) no-repeat center;  background-size: 100%; }
 
@@ -1017,14 +1017,14 @@ section {
         background: #ddd;
 }
 
-.brdr-b-primary{ border-bottom: 2px solid red; }
+.brdr-b-primary{ border-bottom: 2px solid pink; }
 
-.brdr-primary-2{ border: 2px solid red; }
+.brdr-primary-2{ border: 2px solid pink; }
 
-.brdr-primary-3{ border: 3px solid red; }
+.brdr-primary-3{ border: 3px solid pink; }
 
 .brdr-style-1{  position: absolute;left: 0; right: 0; bottom: 0; ; z-index: 1; height: 8px; }
-.brdr-style-1:after{ content:''; display: block; height: 60%; background: red;  z-index: 1; }
+.brdr-style-1:after{ content:''; display: block; height: 60%; background: pink;  z-index: 1; }
 .brdr-style-1:before{content:'';  height: 40%; display: block; background: #FFFFFF;  z-index: 1; }
 
 
@@ -1044,7 +1044,7 @@ section {
         right: 0;
         bottom: 0;
         height: 2px;
-        background: red;
+        background: pink;
         -webkit-transition: all .2s;
         transition: all .2s;
         -webkit-transform-origin: right;
@@ -1063,15 +1063,15 @@ section {
 
 /* BUTTON STYLING */
 
-.btn-brdr-primary { text-align: center; height: 45px; line-height: 43px; border: 1px solid red; color: red; border-radius: 2px; }
+.btn-brdr-primary { text-align: center; height: 45px; line-height: 43px; border: 1px solid pink; color: pink; border-radius: 2px; }
 
-.btn-brdr-primary:hover { background: red; color: #FFFFFF; }
+.btn-brdr-primary:hover { background: pink; color: #FFFFFF; }
 
-.btn-primaryc { position: relative; text-align: center; height: 55px; line-height: 50px; background: red; color: #fff; border-radius: 3px; z-index: 1; }
+.btn-primaryc { position: relative; text-align: center; height: 55px; line-height: 50px; background: pink; color: #fff; border-radius: 3px; z-index: 1; }
 
-.btn-primaryc.secondary{ background: red; }
+.btn-primaryc.secondary{ background: pink; }
 
-.btn-primaryc:after { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: red; z-index: -2; -webkit-transition: all .1s ease-in;
+.btn-primaryc:after { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: pink; z-index: -2; -webkit-transition: all .1s ease-in;
         transition: all .1s .1s ease-in; }
 
 .btn-primaryc:before { content: ''; position: absolute; bottom: 3px; left: 0; right: 0; height: 2px; background: #FFFFFF; z-index: -1;
@@ -1081,11 +1081,11 @@ section {
 
 .btn-primaryc:hover:after { height: 100%; }
 
-.btn-primaryc:hover:before { height: 100%;  border: 1px solid red; }
+.btn-primaryc:hover:before { height: 100%;  border: 1px solid pink; }
 
 .btn-brdr-grey { text-align: center; height: 45px; line-height: 43px; border: 1px solid #ccc; border-radius: 2px; }
 
-.btn-brdr-grey:hover {border: 1px solid red;background: red;color: #000; }
+.btn-brdr-grey:hover {border: 1px solid pink;background: pink;color: #000; }
 
 .btn-fill-primary { text-align: center; height: 55px; line-height: 53px; border: 1px solid red; background: red; border-radius: 2px; color: #FFFFFF; }
 
@@ -1096,7 +1096,7 @@ section {
 
 .btn-fill-grey { text-align: center; height: 45px; line-height: 43px; border: 1px solid #ccc; background: #ccc; border-radius: 2px; color: #111; }
 
-.btn-fill-grey:hover { border: 1px solid red; background: none; color: #000; }
+.btn-fill-grey:hover { border: 1px solid pink; background: none; color: #000; }
 
 .btn-b-lg { font-size: 1em; height: 55px; line-height: 55px; }
 
@@ -1114,7 +1114,7 @@ section {
         display: block;
         width: 100%;
         padding: 0 65px 0 20px;
-        border: 1px solid red;
+        border: 1px solid pink;
 }
 
 .nwsltr-primary-1 button {
@@ -1124,7 +1124,7 @@ section {
         right: 1px;
         width: 45px;
         text-align: center;
-        background: red;
+        background: pink;
         color: #000;
 }
 
@@ -1152,7 +1152,7 @@ section {
 .form-style-1 textarea:focus,
 .form-style-1 input:focus,
 .form-style-1 textarea:active,
-.form-style-1 input:active{ border-bottom: 3px solid red; }
+.form-style-1 input:active{ border-bottom: 3px solid pink; }
 
 .placeholder-1 ::-webkit-input-placeholder { font-style: italic; color: #aaa; font-size: .9em;  }
 .placeholder-1 ::-moz-placeholder { font-style: italic; color: #aaa; font-size: .9em; }
@@ -1219,7 +1219,7 @@ section {
 
 .form-brdr-b-grey input:focus,
 .form-brdr-b-grey textarea:focus {
-        border-bottom: 1px solid red;
+        border-bottom: 1px solid pink;
 }
 
 .form-brdr-b input,
@@ -1357,7 +1357,7 @@ ul.selecton{ text-align: center;  font-size: 1.2em;  }
 ul.selecton li > a{ padding: 15px 30px;   }
 
 ul.selecton li:hover a,
-ul.selecton li a.active{ border-radius: 3px 3px 0 0; background: red; color: #FFFFFF;  }
+ul.selecton li a.active{ border-radius: 3px 3px 0 0; background: pink; color: #FFFFFF;  }
 
 .food-menu{ display: none;  }
 .food-menu.active{ opacity: 0; display: block!important; animation: full-opacity-anim .3s forwards ; }
@@ -1460,7 +1460,7 @@ ul.selecton li a.active{ border-radius: 3px 3px 0 0; background: red; color: #FF
         position: absolute;
         top: 50%;
         right: 0;
-        color: red;
+        color: pink;
         width: 50px;
         text-align: center;
         -webkit-transform: translateY(-50%);
@@ -1509,13 +1509,13 @@ ul.selecton li a.active{ border-radius: 3px 3px 0 0; background: red; color: #FF
         left: 0;
         width: 80px;
         height: 5px;
-        background: red;
+        background: pink;
         z-index: 1;
 }
 
 .quote-primary {
         padding: 10px 20px;
-        border-left: 2px solid red;
+        border-left: 2px solid pink;
 }
 
 .hot-news {
@@ -2743,7 +2743,7 @@ height: 90px;
 }
 
 .list-a-hvr-primary > li > a:hover {
-        background: red;
+        background: pink;
         color: #fff;
 }
 
