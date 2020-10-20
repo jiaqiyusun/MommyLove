@@ -951,12 +951,13 @@ section {
         overflow: hidden;
 
 }
-.bg-0 { background: url(../imgAltera/bg-1.png) no-repeat center; background-size: cover; }
+.bg-0 { background: url(../imgAltera/bg-00.png) no-repeat center; background-size: cover; }
+.bg-11 { background: url(../imgAltera/port.png) no-repeat center; background-size: cover; }
 
 
 .bg-1 { background: url(../imgAltera/bg-0.png) no-repeat center; background-size: cover; }
 
-.bg-2 {   background: url(../imgAltera/BubbleTea/miketea/especial/Classic.png) no-repeat center; background-size: 100%; }
+.bg-2 {   background: url(../imgAltera/BubbleTea/miketea/especial/CarmelCoco.jpg) no-repeat center; background-size: 100%; }
 
 .bg-3 {  background: url(../imgAltera/about.jpeg) no-repeat center;  background-size: 100%; }
 
