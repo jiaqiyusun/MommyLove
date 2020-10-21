@@ -16,12 +16,13 @@
         <link href="fonts/ionicons.css" rel="stylesheet">
         <link href="common/styles.css" rel="stylesheet">
 
-</head>
+<link rel="icon" href="https://img.icons8.com/cotton/64/000000/-takeaway-hot-drink.png">
+  </head>
 <body>
 
 <header>
         <div class="container">
-                <a class="logo" href="index.html"><img src="./imgAltera/0.png" alt="Logo"></a>
+                <a class="logo" href="index.php"><img src="./imgAltera/0.png" alt="Logo"></a>
 
                 <div class="right-area">
                         <h6><a class="plr-20 color-white btn-fill-primary" href="tel://964884682">Pedir: +351 964 884 682 </a></h6>
@@ -30,11 +31,11 @@
                 <a class="menu-nav-icon" data-menu="#main-menu" href="#"><i class="ion-navicon"></i></a>
 
                 <ul class="main-menu font-mountainsre" id="main-menu">
-                        <li><a href="index.html">HOME</a></li>
-                        <li><a href="index.html#us">SOBRE</a></li>
-                        <li><a href="03_menu.html">MENU</a></li>
-                        <li><a href="02_about_us.html">BOLO DA CASA</a></li>
-                        <li><a href="05_contact.html">CONTACTOS</a></li>
+                        <li><a href="index.php">HOME</a></li>
+                        <li><a href="index.php#us">SOBRE</a></li>
+                        <li><a href="03_menu.php">MENU</a></li>
+                        <li><a href="02_about_us.php">BOLO DA CASA</a></li>
+                        <li><a href="05_contact.php">CONTACTOS</a></li>
                 </ul>
 
                 <div class="clearfix"></div>
@@ -48,7 +49,7 @@
                 <div class="dplay-tbl">
                         <div class="dplay-tbl-cell center-text color-white">
                                 <h1 class="mt-30 mb-15">Bem-Vindo<br>ao Mommy Cake</h1>
-                                <h5><a href="05_contact.html" class="btn-primaryc plr-15"><b>ENCOMENDAR JÁ</b></a></h5>
+                                <h5><a href="05_contact.php" class="btn-primaryc plr-15"><b>ENCOMENDAR JÁ</b></a></h5>
                         </div><!-- dplay-tbl-cell -->
                 </div><!-- dplay-tbl -->
         </div><!-- container -->
@@ -77,8 +78,8 @@
                 </div><!-- row -->
 
                 <h6 class="center-text mt-40 mt-sm-30 mb-20">
-                        <a href="03_menu.html" class="btn-primaryc plr-25 mb-10 mlr-5"><b>VER O NOSSO MENU</b></a>
-                        <a href="02_about_us.html" class="btn-primaryc secondary plr-50 mlr-5 mb-10"><b>VER O NOSSO BOLO</b></a>
+                        <a href="03_menu.php" class="btn-primaryc plr-25 mb-10 mlr-5"><b>VER O NOSSO MENU</b></a>
+                        <a href="02_about_us.php" class="btn-primaryc secondary plr-50 mlr-5 mb-10"><b>VER O NOSSO BOLO</b></a>
                 </h6>
 
         </div><!-- container -->
@@ -103,7 +104,7 @@
                                         <div class="ïmg-200x mlr-auto pos-relative">
                                                 <img src="imgAltera/cake/1.jpeg" class="round_icon"alt="">
                                         </div>
-                                        <h6 class="mt-20"><a href="05_contact.html" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
+                                        <h6 class="mt-20"><a href="05_contact.php" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
                                 </div><!--text-center-->
                         </div><!-- col-md-3 -->
 
@@ -112,7 +113,7 @@
                                         <div class="ïmg-200x mlr-auto pos-relative">
                                                 <img src="imgAltera/cake/16.jpeg" class="round_icon" alt="">
                                         </div>
-                                        <h6 class="mt-20"><a href="05_contact.html" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
+                                        <h6 class="mt-20"><a href="05_contact.php" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
                                 </div><!--text-center-->
                         </div><!-- col-md-3 -->
 
@@ -120,7 +121,7 @@
                                 <div class="center-text mb-30">
                                         <div class="ïmg-200x mlr-auto pos-relative"><img src="imgAltera/cake/3.jpeg" class="round_icon"alt=""></div>
                                         
-                                        <h6 class="mt-20"><a href="05_contact.html" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
+                                        <h6 class="mt-20"><a href="05_contact.php" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
                                 </div><!--text-center-->
                         </div><!-- col-md-3 -->
 
@@ -130,7 +131,7 @@
                                                 <img src="imgAltera/cake/4.jpeg" class="round_icon" alt="">
                                         </div>
                                         
-                                        <h6 class="mt-20"><a href="05_contact.html" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
+                                        <h6 class="mt-20"><a href="05_contact.php" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
                                 </div><!--text-center-->
                         </div><!-- col-md-3 -->
 
@@ -138,7 +139,7 @@
                                 <div class="center-text mb-30">
                                         <div class="ïmg-200x mlr-auto pos-relative"><img src="imgAltera/cake/4.jpeg" class="round_icon" alt=""></div>
                                         
-                                        <h6 class="mt-20"><a href="05_contact.html" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
+                                        <h6 class="mt-20"><a href="05_contact.php" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
                                 </div><!--text-center-->
                         </div><!-- col-md-3 -->
 
@@ -148,7 +149,7 @@
                                                 <img src="imgAltera/cake/5.jpeg" class="round_icon"alt="">
                                         </div>
                                         
-                                        <h6 class="mt-20"><a href="05_contact.html" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
+                                        <h6 class="mt-20"><a href="05_contact.php" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
                                 </div><!--text-center-->
                         </div><!-- col-md-3 -->
 
@@ -157,7 +158,7 @@
                                         <div class="ïmg-200x mlr-auto pos-relative">
                                                 <img src="imgAltera/cake/6.jpeg" class="round_icon" alt="">
                                         </div>
-                                        <h6 class="mt-20"><a href="05_contact.html" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
+                                        <h6 class="mt-20"><a href="05_contact.php" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
                                 </div><!--text-center-->
                         </div><!-- col-md-3 -->
 
@@ -165,12 +166,12 @@
                                 <div class="center-text mb-30">
                                         <div class="ïmg-200x mlr-auto pos-relative"><img src="imgAltera/cake/7.jpeg" class="round_icon" alt=""></div>
                                         
-                                        <h6 class="mt-20"><a href="05_contact.html" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
+                                        <h6 class="mt-20"><a href="05_contact.php" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
                                 </div><!--text-center-->
                         </div><!-- col-md-3 -->
                 </div><!-- row -->
 
-                <h6 class="center-text mt-40 mt-sm-20 mb-30"><a href="03_menu.html" class="btn-primaryc plr-25"><b>Ver Menu</b></a></h6>
+                <h6 class="center-text mt-40 mt-sm-20 mb-30"><a href="03_menu.php" class="btn-primaryc plr-25"><b>Ver Menu</b></a></h6>
         </div><!-- container -->
 </section>
 
@@ -246,12 +247,12 @@
                             </ul>
                           </div>
                         </div>
-                        <div class="col-md-2 col-lg-2">
+                        <div class="col-md-2 col-lg-2 col-sm-2">
                                 <div class="ftco-footer-widget mb-4 left-text">
                                         <strong class="d-flex">WeChat:</strong><img src="imgAltera/qr-code-loja.png" />
                                       </div>
                         </div>
-                        <div class="col-md-2 col-lg-2">
+                        <div class="col-md-2 col-lg-2 col-sm-2">
                                 <div class="ftco-footer-widget mb-4 left-text">
                                         <strong class="d-flex"><b>Menu Elétrico:</b></strong>
                                       <img src="imgAltera/qr-code-transparente.png" />

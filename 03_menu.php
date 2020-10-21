@@ -15,12 +15,13 @@
         <link href="plugin-frameworks/swiper.css" rel="stylesheet">
         <link href="fonts/ionicons.css" rel="stylesheet">
         <link href="common/styles.css" rel="stylesheet">
-</head>
+<link rel="icon" href="https://img.icons8.com/cotton/64/000000/-takeaway-hot-drink.png">
+  </head>
 <body>
 
         <header>
                 <div class="container">
-                        <a class="logo" href="index.html"><img src="./imgAltera/0.png" alt="Logo"></a>
+                        <a class="logo" href="index.php"><img src="./imgAltera/0.png" alt="Logo"></a>
         
                         <div class="right-area">
                                 <h6><a class="plr-20 color-white btn-fill-primary" href="tel://964884682">Pedir: +351 964 884 682 </a></h6>
@@ -29,11 +30,11 @@
                         <a class="menu-nav-icon" data-menu="#main-menu" href="#"><i class="ion-navicon"></i></a>
         
                         <ul class="main-menu font-mountainsre" id="main-menu">
-                                <li><a href="index.html">HOME</a></li>
-                                <li><a href="index.html#us">SOBRE</a></li>
-                                <li><a href="03_menu.html">MENU</a></li>
-                                <li><a href="02_about_us.html">BOLO DA CASA</a></li>
-                                <li><a href="05_contact.html">CONTACTOS</a></li>
+                                <li><a href="index.php">HOME</a></li>
+                                <li><a href="index.php#us">SOBRE</a></li>
+                                <li><a href="03_menu.php">MENU</a></li>
+                                <li><a href="02_about_us.php">BOLO DA CASA</a></li>
+                                <li><a href="05_contact.php">CONTACTOS</a></li>
                         </ul>
         
                         <div class="clearfix"></div>

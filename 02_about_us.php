@@ -15,13 +15,14 @@
         <link href="plugin-frameworks/swiper.css" rel="stylesheet">
         <link href="fonts/ionicons.css" rel="stylesheet">
         <link href="common/styles.css" rel="stylesheet">
-</head>
+<link rel="icon" href="https://img.icons8.com/cotton/64/000000/-takeaway-hot-drink.png">
+  </head>
 <body>
 
 
 <header>
         <div class="container">
-                <a class="logo" href="index.html"><img src="./imgAltera/0.png" alt="Logo"></a>
+                <a class="logo" href="index.php"><img src="./imgAltera/0.png" alt="Logo"></a>
 
                 <div class="right-area">
                         <h6><a class="plr-20 color-white btn-fill-primary" href="tel://964884682">Pedir: +351 964 884 682 </a></h6>
@@ -30,11 +31,11 @@
                 <a class="menu-nav-icon" data-menu="#main-menu" href="#"><i class="ion-navicon"></i></a>
 
                 <ul class="main-menu font-mountainsre" id="main-menu">
-                        <li><a href="index.html">HOME</a></li>
-                        <li><a href="index.html#us">SOBRE</a></li>
-                        <li><a href="03_menu.html">MENU</a></li>
-                        <li><a href="02_about_us.html">BOLO DA CASA</a></li>
-                        <li><a href="05_contact.html">CONTACTOS</a></li>
+                        <li><a href="index.php">HOME</a></li>
+                        <li><a href="index.php#us">SOBRE</a></li>
+                        <li><a href="03_menu.php">MENU</a></li>
+                        <li><a href="02_about_us.php">BOLO DA CASA</a></li>
+                        <li><a href="05_contact.php">CONTACTOS</a></li>
                 </ul>
 
                 <div class="clearfix"></div>
@@ -115,20 +116,30 @@
                 <div class="row">
                         <div class="col-md-12 col-lg-6">
                                 <div class="sided-220x responsive mb-30 left-text center-sm-text">
-                                        <div class="s-left mlr-sm-auto"><img  src="imgAltera/segredo1.png" class="bolo_de_casa" alt="Menu Image"></div>
+                                        <div class="s-left row mlr-sm-auto">
+                                                <img  src="imgAltera/segredo1.png" class="bolo_de_casa" alt="Menu Image">
+                                        </div>
                                         <div class="s-right">
-                                                <h4 class="mtb-10"><b class="color-primary"></b>Bolos com Foto</b></h4>
+                                                <br>
+                                                <br>
+                                                <br>
+                                        <h4 class="mtb-10">       
+                                                <b class="color-primary"></b>Bolos com Foto</b>
+                                        </h4>
                                                 <h5 >Bolo com uma foto à sua escolha!</h5>
                                                 <p>- Bolo fresco: feito no dia de entrega</p>
-                                                <h6 class="mt-20"><a href="05_contact.html" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
+                                                <h6 class="mt-20"><a href="05_contact.php" class="btn-brdr-primary plr-25"><b>Contactar</b></a></h6>
                                         </div><!--s-right-->
                                 </div><!-- sided-90x -->
                         </div><!-- col-md-6 -->
 
                         <div class="col-md-12 col-lg-6">
                                 <div class="sided-220x responsive mb-30 left-text center-sm-text">
-                                        <div class="s-left mlr-sm-auto"><img  src="imgAltera/food/0.jpeg" class="bolo_de_casa" alt="Menu Image"></div>
+                                        <div class="s-left row mlr-sm-auto"><img  src="imgAltera/food/0.jpeg" class="bolo_de_casa" alt="Menu Image"></div>
                                         <div class="s-right">
+                                                <br>
+                                                <br>
+                                                <br>
                                                 <h4 class="mtb-10"><b class="color-primary"></b>Pastelaria Chinesa</b></h4>
                                                 <h5 >A comida chinesa mais fácil de apaixonar!</h5>
                                                 <p>- Não só o sabor como também a decoração </p>
